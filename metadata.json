@@ -1,0 +1,5 @@
+{
+  "name": "Humble Key Finder",
+  "description": "A tool to retrieve and manage your unrevealed and unused game keys from Humble Bundle.",
+  "requestFramePermissions": []
+}
